@@ -2,7 +2,7 @@
 $(call inherit-product, device/motorola/triumph/triumph.mk)
 
 # Inherit some common cyanogenmod stuff.
-$(call inherit-product, vendor/aokp/products/common_phone.mk)
+$(call inherit-product, vendor/aokp/products/configs/common_phone.mk)
 
 #
 # Setup device specific product configuration.
