@@ -34,4 +34,3 @@ PRODUCT_COPY_FILES +=  \
     vendor/aokp/prebuilt/common/etc/resolv.conf:system/etc/resolv.conf \
     vendor/aokp/prebuilt/xhdpi/bootanimation.zip:system/media/bootanimation.zip \
     vendor/aokp/prebuilt/common/etc/init.d/_placeholder_:system/etc/init.d/_placeholder_ \
-    vendor/aokp/prebuilt/tuna/vold.fstab:system/etc/vold.fstab
