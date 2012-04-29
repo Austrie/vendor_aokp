@@ -1,6 +1,3 @@
-# Inherit device configuration.
-$(call inherit-product, device/malata/smba1002/full_smba1002.mk)
-
 # Inherit common product files.
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
